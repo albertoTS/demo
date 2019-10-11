@@ -1,12 +1,14 @@
 { 
-      "posts": [
-            {
-            "personId":"1",
-            "name":"ala bala",
-            "address":{ 
-               "addressId":"11",
-               "street":"bucuresti nord"
-            }      
-      ],
+      "posts": [ 
+   { 
+      "personId":"1",
+      "name":"ala bala",
+      "address":{ 
+         "addressId":"11",
+         "street":"bucuresti nord"
+      }      
+   }
+]
+
    }
 
